@@ -32,8 +32,8 @@ In a web application where users can input text, the AI model predicts the senti
 
     Clone the repository:
 
-git clone https://github.com/yourusername/AI-WebApp-MERN-Python.git
-cd AI-WebApp-MERN-Python
+git clone https://github.com/MohammadMaftoun/AI-WebApp-Using-MERN-Python
+cd AI-WebApp-MERN-Using-Python
 
 # Follow the setup instructions for each component:
 
