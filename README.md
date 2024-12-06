@@ -9,7 +9,7 @@ A full-stack web application integrating AI capabilities using the MERN stack (M
 
     AI Integration: Deploy Python-based AI/ML models with Flask or FastAPI.
     MERN Stack: Build a dynamic and scalable web interface with React, Node.js, Express, and MongoDB.
-    API Communication: Enable secure communication between the web server and the AI server.
+    API Communication: Enable secure communication between the web and AI servers.
     Containerization: Simplify deployment with Docker and Docker Compose.
     Responsive Design: Frontend built with React for an interactive user experience.
 
