@@ -1,6 +1,6 @@
 # AI-WebApp-Using-MERN-Python
 
-A full-stack web application integrating AI capabilities using the MERN stack (MongoDB, Express, React, Node.js) and Python. This repository demonstrates deploying a machine learning model in a web application with seamless communication between the frontend, backend, and AI model server.
+A full-stack web application integrating AI capabilities using the MERN stack (MongoDB, Express, React, Node.js) and Python. This repository showcases deploying a machine learning model in a web application with seamless communication between the frontend, backend, and AI model server.
 
 ![MPy](https://miro.medium.com/v2/resize:fit:1400/1*jH83DONf_6s0DJS53QZQZA.png)
 
