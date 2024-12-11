@@ -11,7 +11,7 @@ A full-stack web application integrating AI capabilities using the MERN stack (M
     MERN Stack: Build a dynamic and scalable web interface with React, Node.js, Express, and MongoDB.
     API Communication: Enable secure communication between the web and AI servers.
     Containerization: Simplify deployment with Docker and Docker Compose.
-    Responsive Design: Frontend built with React for an interactive user experience.
+    Responsive Design: The front end is built with React for an interactive user experience.
 
 # Example Use Case
 
