@@ -55,4 +55,4 @@ cd AI-WebApp-MERN-Using-Python
 
 # Contributing
 
-Contributions are welcome! Please fork this repository and submit a pull request for any improvements or features.
+Contributions are welcome! Please fork this repository and submit a pull request for improvements or features.
