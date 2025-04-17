@@ -51,7 +51,7 @@ cd AI-WebApp-MERN-Using-Python
 
 # Start the services:
 
-    docker-compose up --build
+    docker-compose up-- build
 
     Open the web app in your browser at http://localhost
 
