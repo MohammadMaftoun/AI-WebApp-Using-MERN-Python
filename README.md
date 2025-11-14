@@ -10,23 +10,73 @@ Integrating artificial intelligence (AI) into web applications has opened new bo
 ![MPy](https://miro.medium.com/v2/resize:fit:1400/1*jH83DONf_6s0DJS53QZQZA.png)
 
 
-# Features
+# 🚀  Features
+✅ AI Model Integration
 
-    AI Integration: Deploy Python-based AI/ML models with Flask or FastAPI.
-    MERN Stack: Build a dynamic and scalable web interface with React, Node.js, Express, and MongoDB.
-    API Communication: Enable secure communication between the web and AI servers.
-    Containerization: Simplify deployment with Docker and Docker Compose.
-    Responsive Design: The front end is built with React for an interactive user experience.
+Python FastAPI model server
 
-# Example Use Case
+Ensemble of XGBoost, CatBoost, LightGBM
 
-Sentiment Analysis Web App
-In a web application where users can input text, the AI model predicts the sentiment (positive, negative, or neutral).
+Real-time predictions with confidence scores
 
-    Frontend: Users enter text through a React-based interface.
-    Backend: The Node.js/Express server endures user requests and forwards them to the AI server.
-    AI Server: A Python-based sentiment analysis model (trained using libraries like scikit-learn or transformers) processes the input and returns predictions.
-    Database: MongoDB stores user inputs and their associated results for analytics.
+Model metadata exposure (/model-info)
+
+✅ Modular MERN Stack
+
+Express backend with fully modular routes
+
+MongoDB prediction logging
+
+Input validation with Joi
+
+✅ React Frontend (Component-Based)
+
+Clean responsive UI
+
+Prediction form
+
+Confidence bars
+
+Model votes visualizer
+
+✅ API Communication
+
+Backend securely communicates with the AI server
+
+Backend acts as middleware for the frontend
+
+Centralized error handling
+
+✅ Containerization
+
+Fully Dockerized
+
+docker-compose.yml orchestrates all services
+
+MongoDB volume for persistence
+
+🎨 Responsive & Interactive UI
+
+Clean React interface
+
+Real-time validation
+
+Probability bars + class color coding
+
+# 📘 Example Use Case
+Iris Flower Classifier (Built-in Example)
+
+Frontend (React)
+User enters sepal/petal measurements.
+
+Backend (Express)
+Validates input → forwards to AI server → logs to database.
+
+AI Server (FastAPI)
+Computes prediction using ensemble ML models.
+
+Database (MongoDB)
+Stores predictions for history & analytics dashboards.
 
 # Technologies Used
 
